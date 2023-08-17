@@ -1,8 +1,6 @@
 ## Hi, I'm Christian! 👋
 
 ## Stats 📊
-[![Stats](https://github-readme-stats.vercel.app/api?username=christiancasal&theme=dracula)](https://github.com/christiancasal)
-
 [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=christiancasal&theme=dracula&layout=compact)](https://github.com/christiancasal)
 <!--
 **christiancasal/christiancasal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
